@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <div className='drop-shadow-2xl'>My To-Do</div>
+    <div className='drop-shadow-2xl decoration-white'>My To-Do</div>
      <AddTodo />
      <Todos />
     </>
